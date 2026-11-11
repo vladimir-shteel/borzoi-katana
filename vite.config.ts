@@ -5,10 +5,10 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    // Репозиторий публикуется на GitHub Pages по пути /Borzoi-Katana/,
-    // поэтому base должен совпадать с именем репозитория.
+    // Репозиторий публикуется на GitHub Pages по пути /borzoi-katana/
+    // (имя репозитория: https://github.com/vladimir-shteel/borzoi-katana).
     // При переименовании репозитория поменяйте путь и здесь.
-    base: '/Borzoi-Katana/',
+    base: '/borzoi-katana/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
