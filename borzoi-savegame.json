@@ -1,0 +1,27 @@
+{
+  "exportedAt": "2026-11-11T07:43:37.574Z",
+  "floor": 1,
+  "maxFloor": 1,
+  "level": 1,
+  "souls": 20,
+  "jawsStrength": 1,
+  "vitality": 1,
+  "agility": 1,
+  "spirit": 1,
+  "equippedWeaponId": "shibuya_katana",
+  "equippedArmorId": "street_collar",
+  "equippedSkinId": "white_aristocrat",
+  "unlockedWeapons": [
+    "shibuya_katana"
+  ],
+  "unlockedArmors": [
+    "street_collar"
+  ],
+  "materials": {
+    "steel": 3,
+    "silk": 2,
+    "seal": 1,
+    "ash": 1,
+    "jade": 0
+  }
+}

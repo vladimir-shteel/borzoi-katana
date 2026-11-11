@@ -1,0 +1,6 @@
+{
+  "name": "Borzoi Blade: Tokyo Abyss",
+  "description": "3D third-person dungeon crawler on Three.js with ECS architecture starring a katana-wielding Borzoi in a J-Horror urban mystic Tokyo subway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
